@@ -1,0 +1,9 @@
+set aaa 5
+set bbb 6
+set c 10
+get bbb
+get cc
+set aaa 4
+get aaa
+delete aaa
+get aaa
